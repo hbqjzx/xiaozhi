@@ -23,7 +23,9 @@
 - 如果您对该项目有任何疑问或建议，欢迎在 Issues 中留言，我们会及时回复。
 :heart: 贡献者
 该项目的主要贡献者包括：
-- @xxx：项目发起人和主要开发者。
+- 微信:mytimerun 开发者。
 如果您想为该项目做出贡献，欢迎 Fork 本项目并提交 Pull Request，我们会审核并及时合并您的贡献。
 :clipboard: License
 该项目基于 MIT License 进行开源，详细的 License 信息请参考项目中的 LICENSE 文件。
+> 请联系 立早-知数云（微信：mytimerun）。
+<img src="https://i.postimg.cc/vBPm2zv2/code2.jpg"   width="30%">
